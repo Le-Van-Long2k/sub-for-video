@@ -1,0 +1,10 @@
+gradio>=5.0
+qwen-asr
+faster-whisper>=1.1.0
+soundfile
+numpy
+funasr>=1.4.1
+funasr[knf]
+huggingface_hub[hf_xet]
+av>=11,<19
+googletrans-curl
